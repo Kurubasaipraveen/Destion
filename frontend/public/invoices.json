@@ -1,0 +1,41 @@
+[
+    { "id": 1, "storeName": "Store A", "customer": "John Doe", "total": 500, "date": "2025-03-01", "items": [
+        { "name": "Product A", "quantity": 2, "price": 100 },
+        { "name": "Product B", "quantity": 1, "price": 300 }
+    ]},
+    { "id": 2, "storeName": "Store B", "customer": "Jane Smith", "total": 1200, "date": "2025-03-02", "items": [
+        { "name": "Product C", "quantity": 4, "price": 200 }
+    ]},
+    { "id": 3, "storeName": "Store A", "customer": "Alice Brown", "total": 750, "date": "2025-03-05", "items": [
+        { "name": "Product A", "quantity": 3, "price": 100 },
+        { "name": "Product D", "quantity": 2, "price": 150 }
+    ]},
+    { "id": 4, "storeName": "Store C", "customer": "Charlie Green", "total": 900, "date": "2025-03-07", "items": [
+        { "name": "Product E", "quantity": 1, "price": 900 }
+    ]},
+    { "id": 5, "storeName": "Store B", "customer": "David White", "total": 650, "date": "2025-03-08", "items": [
+        { "name": "Product F", "quantity": 5, "price": 130 }
+    ]},
+    { "id": 6, "storeName": "Store D", "customer": "Evelyn Clark", "total": 1100, "date": "2025-03-10", "items": [
+        { "name": "Product G", "quantity": 2, "price": 550 }
+    ]},
+    { "id": 7, "storeName": "Store A", "customer": "Franklin Hall", "total": 300, "date": "2025-03-12", "items": [
+        { "name": "Product H", "quantity": 3, "price": 100 }
+    ]},
+    { "id": 8, "storeName": "Store C", "customer": "Grace Lewis", "total": 450, "date": "2025-03-15", "items": [
+        { "name": "Product I", "quantity": 1, "price": 250 },
+        { "name": "Product J", "quantity": 1, "price": 200 }
+    ]},
+    { "id": 9, "storeName": "Store D", "customer": "Henry Adams", "total": 1350, "date": "2025-03-18", "items": [
+        { "name": "Product K", "quantity": 3, "price": 450 }
+    ]},
+    { "id": 10, "storeName": "Store B", "customer": "Isabella Cooper", "total": 980, "date": "2025-03-20", "items": [
+        { "name": "Product L", "quantity": 2, "price": 490 }
+    ]},
+    { "id": 11, "storeName": "Store A", "customer": "James Turner", "total": 400, "date": "2025-03-22", "items": [
+        { "name": "Product M", "quantity": 2, "price": 200 }
+    ]},
+    { "id": 12, "storeName": "Store C", "customer": "Karen Evans", "total": 720, "date": "2025-03-25", "items": [
+        { "name": "Product N", "quantity": 3, "price": 240 }
+    ]}
+]

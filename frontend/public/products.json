@@ -1,0 +1,17 @@
+[
+    { "id": 1, "name": "Laptop", "price": 1000, "Store": 1 },
+    { "id": 2, "name": "Smartphone", "price": 700, "store": 2 },
+    { "id": 3, "name": "Wireless Headphones", "price": 150, "store": 1 },
+    { "id": 4, "name": "Mechanical Keyboard", "price": 120, "store": 3 },
+    { "id": 5, "name": "Gaming Mouse", "price": 80, "store": 2 },
+    { "id": 6, "name": "Monitor", "price": 300, "store": 1 },
+    { "id": 7, "name": "External Hard Drive", "price": 250, "store": 3 },
+    { "id": 8, "name": "Smartwatch", "price": 180, "store": 2 },
+    { "id": 9, "name": "Bluetooth Speaker", "price": 90, "store": 1 },
+    { "id": 10, "name": "Portable Charger", "price": 50, "store": 3 },
+    { "id": 11, "name": "Tablet", "price": 600, "store": 2 },
+    { "id": 12, "name": "Webcam", "price": 75, "store": 1 },
+    { "id": 13, "name": "Printer", "price": 400, "store": 3 },
+    { "id": 14, "name": "VR Headset", "price": 900, "store": 2 },
+    { "id": 15, "name": "Graphic Tablet", "price": 350, "store": 1 }
+]
